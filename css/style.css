@@ -13,7 +13,7 @@ body {
   align-items: center;
   min-width: 100vh;
   min-height: 100vh;
-  background: url("https://wallpapercave.com/uwp/uwp4158589.png") no-repeat;
+  background: url("../img/background.png") no-repeat;
   background-size: cover;
   background-position: center;
 }
